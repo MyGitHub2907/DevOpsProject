@@ -5,7 +5,7 @@
 <h1>DevOps Sample Project</h1>
 <h2>This is a sample web page</h2>
 
-<p>Hello!!.</p>
+<p>Hello World!!.</p>
 
 </body>
 </html>
